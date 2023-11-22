@@ -8,7 +8,7 @@ port number, host name, logoff, login, and more
 
 List of Client commands:
 
-    #quit _causes the client to terminate_ 
+    #quit causes the client to terminate
     #logoff causes the client to disconnect from server, but not quit
     #sethost allows client to set host name, only if logged off
     #setport allows client to set a new port number, only if logged off
