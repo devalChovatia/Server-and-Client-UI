@@ -3,8 +3,8 @@ This project dives in depth into using OCSF.
 EchoServer, ClientConsole, and ServerConsole are operating at the same time and whenever a client 
 sends a message, it is repeated on the server console. 
 
-There are many commands which both server and client can enter to change certain parameters like
-port number, host name, logoff, login, and more
+There are many commands which both server and client can enter into their own console to change 
+certain parameters like port number, host name, logoff, login, and more
 
 List of Client commands:
 
